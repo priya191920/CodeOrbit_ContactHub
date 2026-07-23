@@ -65,3 +65,21 @@ CodeOrbit_ContactHub/
 │
 ├── .gitignore
 └── README.md
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📞 Contact Page
+![Contact Page](screenshots/contact.png)
+
+### ⚛️ Frontend
+![Frontend](screenshots/frontend.png)
+
+### 🖥️ Backend
+![Backend](screenshots/backend.png)
+
+### 🗄️ MongoDB Database
+![MongoDB Database](screenshots/mongodb.png)
